@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_pintor"
+            android:icon="@drawable/ic_baseline_brush_24"
+            android:title="@string/menu_pintor" />
+        <item
+            android:id="@+id/nav_cientifico"
+            android:icon="@drawable/ic_baseline_science_24"
+            android:title="@string/menu_cientifico" />
+        <item
+            android:id="@+id/nav_inventor"
+            android:icon="@drawable/ic_baseline_lightbulb_circle_24"
+            android:title="@string/menu_inventor" />
+        <item
+            android:id="@+id/nav_escultor"
+            android:icon="@drawable/ic_baseline_temple_hindu_24"
+            android:title="@string/menu_escultor" />
+    </group>
+</menu>

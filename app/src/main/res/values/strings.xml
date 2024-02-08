@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DaVinciApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Leonardo da Vinci</string>
+    <string name="nav_header_subtitle">Una pequeña reseña de su legado</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <!-- Menú de opciones-->
+    <string name="menuModifica">Modificacion</string>
+    <string name="menuAlta">Alta</string>
+    <string name="menuBaja">Baja</string>
+
+    <!-- Nombres de los item laterales (sale en la cabecera de los mismos)-->
+    <string name="menu_home">Leonardo da Vinci</string>
+    <string name="menu_pintor">Pintor</string>
+    <string name="menu_cientifico">Científico</string>
+    <string name="menu_inventor">Inventor</string>
+    <string name="menu_escultor">Escultor</string>
+
+    <!-- Etiquetas para título de imagen del fragmento-->
+    <string name="txt_home">Leonardo da Vinci</string>
+    <string name="txt_inventor">Inventor</string>
+    <string name="txt_escultor">Escultor</string>
+    <string name="txt_pintor">Pintor</string>
+    <string name="txt_cientifico">Cientifico</string>
+
+
+    <!-- Etiquetas para texto del fragmento-->
+    <string name="ltxt_home">Leonardo da Vinci fue un polímata florentino del Renacimiento italiano. Fue a la vez pintor, anatomista, arquitecto, paleontólogo, botánico, escritor, escultor, filósofo, ingeniero, inventor, músico, poeta y urbanista. Falleció acompañado de Francesco Melzi, a quien legó sus proyectos, diseños y pinturas.</string>
+    <string name="ltxt_inventor">Con un tablero parabólico y de un solo vano, Leonardo presenta, en el Códice Atlántico, f. 855r (1487-1489), un puente giratorio  mediante poleas que permite dejar el paso libre para la navegación. Por medio de un sistema articulado de tornos y rodillos de deslizamiento, el puente se hace girar 90° permitiendo el paso de los barcos.</string>
+    <string name="ltxt_escultor">El David es una escultura de mármol blanco de 5,17 metros de altura y 5572 kilogramos de peso, realizada por Miguel Ángel Buonarroti entre 1501 y 1504 por encargo de la Opera del Duomo de la catedral de Santa María del Fiore de Florencia. La escultura representa al rey David bíblico en el momento previo a enfrentarse con Goliat, y fue acogida como un símbolo de la República de Florencia.</string>
+    <string name="ltxt_pintor">Salvator Mundi es una pintura de Cristo como Salvator Mundi atribuida a Leonardo da Vinci, datada en torno al año 1500. ha sido atribuida también, entre otros, a Bernardino Luini y a Giovanni Antonio Boltraffio.</string>
+    <string name="ltxt_cientifico">Los trabajos y, sobre todo, los dibujos de Da Vinci como anatomista son de los aspectos más famosos de su faceta científica. Sin embargo, pocos saben que fue el primero en describir al corazón como un músculo y como el centro del sistema sanguíneo, destronando los postulados del antiguo griego Galeno, que perduraban intocables desde el siglo II.</string>
+</resources>

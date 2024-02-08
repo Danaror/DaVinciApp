@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- nombre del tema y atributos que hereda-->
+    <style name="miEstilo" parent="@style/Theme.DaVinciApp">
+
+        <!-- también definimos una fuente y tamaño de texto para toda la aplicación-->
+        <item name="android:fontFamily">@font/dum</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>
